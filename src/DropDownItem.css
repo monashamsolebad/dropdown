@@ -1,0 +1,13 @@
+.dropdown .dropdown-menu .dropdown-item {
+  padding: 4px 24px;
+  display: block;
+  text-decoration: none;
+  color: #212529;
+  line-height: 24px;
+}
+.dropdown .dropdown-menu .dropdown-item:hover {
+  background-color: #f8f9fa;
+}
+.dropdown .dropdown-menu .dropdown-item.selected {
+  font-weight: bold;
+}
